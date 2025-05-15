@@ -5,7 +5,7 @@
 # **AI First by Design** 
 ### Your Guide to Accelerating AI Maturity & Leading High-Performance AI Initiatives & Organizations
 by 
-[Anuj Gupta](https://www.linkedin.com/in/anujgupta-82/)
+[Yosuke](https://www.linkedin.com/in/yosuke-kuroki/)
 <br>
 <p align="center">
     <img src="https://github.com/AI-First-by-Design/AI-First-by-Design-Book/blob/main/images/2.jpg" width="300"> &nbsp; &nbsp; &nbsp; &nbsp;
@@ -303,36 +303,3 @@ If this work helps you or enriches your knowledge in any way, please show your l
 [![Tweet](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FAI-First-by-Design%2FAI-First-by-Design)](https://twitter.com/intent/tweet?text=Check%20out%20this%20awesome%20AI%20resource%20by%20%40anujgupta82%20from%20%40GradientAdvisor%3A%20https%3A%2F%2Fgithub.com%2FAI-First-by-Design%2FAI-First-by-Design-Book)  
 [![Share on LinkedIn](https://img.shields.io/badge/Share%20on-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fgithub.com%2FAI-First-by-Design%2FAI-First-by-Design-Book)  
 
-
-Feel free to tag our handles: 
-
-X / Twitter: [@anujgupta82](https://X.com/anujgupta82) [@gradientAdvisor](https://x.com/GradientAdvisor)
-
-Linkedin:  [anujgupta-82](https://www.linkedin.com/in/anujgupta-82/) [gradient-advisors](https://www.linkedin.com/company/gradient-advisors/)
-
-YouTube: [@gradient_advisors](https://www.youtube.com/@gradient_advisors)
-
-Discord: 
-
-Website: [Gradient Advisors](https://gradient-advisors.ai/)
-
-</details>
-
------------------------------------------------------------------------------------
-<details>
-      <summary><h3>License</h3></summary>
-
-[![CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc/4.0/)
-
-</details>
-
-<!--
-**This repository contains**
-1. The pdf version of the book which is available in html at [http://www.ai-by-design-book.org/](http://www.ai-by-design-book.org/)
-2. The book is available in chapter-wise PDFs as well as a complete book in PDF.
-
-[//]: # (**Some useful links for this learning:**)
-1. [Exercises](http://www.deeplearningbook.org/exercises.html)
-2. [Lecture Slides](http://www.deeplearningbook.org/lecture_slides.html)
-3. [External links](http://www.deeplearningbook.org/external.html)
--->
